@@ -1,0 +1,17 @@
+/Module/*.o
+/*.dat
+/*.exe
+/*.pdf
+/*.png
+/error_message.txt
+/gnuplot.scp
+/ipopt.out
+/mesh_statistics*
+/psopt_solution_*.txt
+/ADOLC-Locations_2.tap
+*.o
+*~
+/.cproject
+/.externalToolBuilders
+/.project
+/.settings
